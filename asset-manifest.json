@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daycare.github.io/static/css/main.f07b9bda.css",
+    "main.js": "/daycare.github.io/static/js/main.53172cfd.js",
+    "static/js/453.ed3810f9.chunk.js": "/daycare.github.io/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/daycare.github.io/index.html",
+    "main.f07b9bda.css.map": "/daycare.github.io/static/css/main.f07b9bda.css.map",
+    "main.53172cfd.js.map": "/daycare.github.io/static/js/main.53172cfd.js.map",
+    "453.ed3810f9.chunk.js.map": "/daycare.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07b9bda.css",
+    "static/js/main.53172cfd.js"
+  ]
+}
