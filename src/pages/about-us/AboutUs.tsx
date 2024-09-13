@@ -1,13 +1,13 @@
 import React from 'react';
-import UploadVideo from '../../Footer/UploadVideo';
+import Photo from '../../composants/Photo';
 
-function UploadPage() {
+function AboutUs() {
     return (
         <div className="UploadPage">
             <div>Upload Page</div>
-            <UploadVideo />
+            <Photo/>
         </div>
     );
 }
 
-export default UploadPage;
+export default AboutUs;
