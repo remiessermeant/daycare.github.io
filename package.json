@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://Arusha.github.io/daycare.github.io",
+  "homepage": "https://remiessermeant.github.io/daycare.github.io",
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^6.2.0",
